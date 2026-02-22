@@ -11,3 +11,7 @@ This repository demonstrates a C-based CI/CD pipeline using GitHub Actions. It c
 ## Tools
 - Language: C
 - CI/CD Platform: GitHub Actions
+
+## Workflow status badge
+
+[![Actions Status](https://github.com/Dem757/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/Dem757/cicd/actions)
